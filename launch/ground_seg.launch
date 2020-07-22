@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="ground_seg" type="ground_seg" name="ground_seg" output="screen"/>
+</launch>
